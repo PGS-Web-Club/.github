@@ -1,3 +1,3 @@
-# Welcome to PGS Web & App Dev Club
+# Welcome to PGS Web & App Dev Club 💻
 
 Welcome to the PGS Web & App Dev Club! Our club is dedicated to nurturing and enhancing the skills of aspiring web developers. Whether you're a beginner eager to learn the basics or an experienced coder looking to hone your craft, our club provides a supportive and collaborative environment for all. We offer a variety of activities including hands-on workshops, project collaborations, guest speaker events, and coding challenges to help you build and refine your web development skills. Join us to connect with like-minded individuals, explore the latest web technologies, and create amazing web applications together!
