@@ -1,12 +1,3 @@
-## Hi there 👋
+## Welcome to PGS Web Dev Club
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to the PGS Web Dev Club! Our club is dedicated to nurturing and enhancing the skills of aspiring web developers. Whether you're a beginner eager to learn the basics or an experienced coder looking to hone your craft, our club provides a supportive and collaborative environment for all. We offer a variety of activities including hands-on workshops, project collaborations, guest speaker events, and coding challenges to help you build and refine your web development skills. Join us to connect with like-minded individuals, explore the latest web technologies, and create amazing web applications together!
